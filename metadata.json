@@ -1,0 +1,6 @@
+
+{
+  "name": "Spatial Image Nexus",
+  "description": "An immersive 3D spatial image showcase that tracks mouse movements for an elegant browsing experience.",
+  "requestFramePermissions": []
+}
